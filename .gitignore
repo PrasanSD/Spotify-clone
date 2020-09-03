@@ -10,6 +10,9 @@
 
 package-lock.json
 
+src/spotify.js
+
+
 # production
 /build
 
